@@ -1,6 +1,10 @@
 # MedTrans
 Official PyTorch implementation of MedTrans  
-## Dataset  
+## Dataset    
+We evaluate our method on ACDC and ISIC datasets respectively.  
+ACDC: 3% labeled and 10% labeled  
+ISIC: 3% labeled and 10% labeled  
+
 1. ACDC  
 we use the same split and preprossing with [SSL4MIS]:https://github.com/HiLab-git/SSL4MIS. 
 2. ISIC  
