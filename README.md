@@ -13,17 +13,17 @@ ISIC2018 can be downloaded here [link]:https://www.isic-archive.com/
 
 ## Train  
 For ACDC dataset:
-'''
+```
 python train_MedTrans.py
-'''
+```
 For ISIC dataset:
-'''
+```
 python train_MedTrans_ISIC.py
-'''
+```
 ## Test
-'''
+```
 python test_2D_fully.py
-'''
+```
 ## Reference
 - [SSL4MIS](https://github.com/HiLab-git/SSL4MIS)
 - [BAT](https://github.com/jcwang123/BA-Transformer)
