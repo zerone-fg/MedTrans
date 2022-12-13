@@ -1,5 +1,5 @@
 # MedTrans
-Official PyTorch implementation of paper: MedTrans :SEMI-SUPERVISED CONVOLUTIONAL VISION TRANSFORMER FOR MEDICAL SEMANTIC SEGMENTATION  
+Official PyTorch implementation of paper **MedTrans :SEMI-SUPERVISED CONVOLUTIONAL VISION TRANSFORMER FOR MEDICAL SEMANTIC SEGMENTATION**  
 
 ## Dataset    
 We evaluate our method on ACDC and ISIC datasets respectively.  
